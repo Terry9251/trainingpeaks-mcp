@@ -5,3 +5,4 @@ description = "TrainingPeaks MCP server for Claude Desktop, Code and Cowork. No 
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
